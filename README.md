@@ -46,6 +46,6 @@ Lisensi
 Proyek ini dilisensikan di bawah lisensi MIT. Lihat file LICENSE untuk informasi lebih lanjut.
 
 Kontak
-Muhammad Arif Ramadhan - @twitter_handle - mrif3419@gmail.com
+Muhammad Arif Ramadhan - mrif3419@gmail.com
 
 Link Proyek: https://github.com/Riff-Code/New_JM.git
